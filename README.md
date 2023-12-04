@@ -56,10 +56,10 @@ The journey through data analysis continues with Power BI, where the Excel file 
 
 ## Repository Structure
 
-1.`Raw_data`/: Contains the raw and processed data files.
-2.`Coffee`/: Python scripts for data processing.
-3.`Coffee_processed_data`/: Excel files with cleaned and processed data.
-4.`Coffee PowerBi`/: Power BI files with visualizations.
+-  `Raw_data`/: Contains the raw and processed data files.
+-  `Coffee`/: Python scripts for data processing.
+-  `Coffee_processed_data`/: Excel files with cleaned and processed data.
+-  `Coffee PowerBi`/: Power BI files with visualizations.
 
 ## Usage
 
