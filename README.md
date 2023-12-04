@@ -56,19 +56,18 @@ The journey through data analysis continues with Power BI, where the Excel file 
 
 ## Repository Structure
 
--Raw_data/: Contains the raw and processed data files.
--Coffee/: Python scripts for data processing.
--coffee_processed_data/: Excel files with cleaned and processed data.
--Coffee PowerBi/: Power BI files with visualizations.
+-`Raw_data`/: Contains the raw and processed data files.
+-`Coffee`/: Python scripts for data processing.
+-`Coffee_processed_data`/: Excel files with cleaned and processed data.
+-`Coffee PowerBi`/: Power BI files with visualizations.
 
 ## Usage
 
-To explore the visualizations, download the Excel file in the "Data" folder and open it in Power BI.
 To replicate or extend this analysis, follow these steps:
 
-1.Data Exploration, Cleaning, and Preprocessing Execute the Python script Coffee/ in a Jupyter environment
+1.Data Exploration, Cleaning, and Preprocessing Execute the Python script `Coffee`/ in a Jupyter environment
 
-2.Power BI Analysis Import the Final coffee_processed_data/ file into Power BI. Open the Coffee PowerBi/ file to explore the visualizations and analyses
+2.Power BI Analysis Import the Final `Coffee_processed_data`/ file into Power BI. Open the `Coffee PowerBi`/ file to explore the visualizations and analyses
 
 ## Acknowledgement
 Special thanks to the Kaggle for providing the original dataset
